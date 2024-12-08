@@ -3,7 +3,7 @@
 ## 🌟 About Me
 - 🎓 **Age:** 21  
 - ⚽ **Inspired by:** Cristiano Ronaldo – I strive for excellence in both programming and fitness.  
-- 💻 **Focus Areas:** Web development, project management, and crafting efficient solutions.  
+- 💻 **Focus Areas:** Backend Development, and crafting efficient solutions.  
 - 🔭 **Current Goal:** Developing user-friendly web applications using modern tools and frameworks.
 
 ---
