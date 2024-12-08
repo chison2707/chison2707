@@ -33,17 +33,16 @@ A task organizer built using **Express.js** and **MongoDB** to simplify daily wo
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chison2707&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chison2707&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chison2707&show_icons=true&theme=default)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chison2707&layout=compact&theme=default)
 
 ---
 
 ## 📫 Connect With Me
 - **GitHub:** [chison2707](https://github.com/chison2707)  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Facebook:** [Your Facebook Profile](https://facebook.com/your-profile)  
-- **Instagram:** [@your_username](https://instagram.com/your_username)  
+- **Email:** [your-email@example.com](mailto:chiphansonzz17@gmail.com)    
+- **Facebook:** [Your Facebook Profile](https://facebook.com/ChiSon8386)  
+- **Instagram:** [@your_username](https://instagram.com/iam_chiisonn8688)  
 
 ---
 
