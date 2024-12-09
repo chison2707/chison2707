@@ -40,7 +40,7 @@ A task organizer built using **Express.js** and **MongoDB** to simplify daily wo
 
 ## 📫 Connect With Me
 - **GitHub:** [chison2707](https://github.com/chison2707)  
-- **Email:** [your-email@example.com](mailto:chiphansonzz17@gmail.com)    
+- **Email:** [chiphansonzz17@gmail.com](mailto:chiphansonzz17@gmail.com)    
 - **Facebook:** [Chí Sơn](https://facebook.com/ChiSon8386)  
 - **Instagram:** [@iam_chiisonn8688](https://instagram.com/iam_chiisonn8688)  
 
