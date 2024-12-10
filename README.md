@@ -1,4 +1,5 @@
 # 👋 Hello World, I'm **Phan Chí Sơn**! 
+* ✉️  You can contact me at [chiphansonzz17@gmail.com](mailto:chiphansonzz17@gmail.com)
 
 # 💫 About Me:
 🎓 Age: 21<br>💻 Focus Areas: Backend Development, and crafting efficient solutions.<br>🔭 Current Goal: Developing user-friendly web applications using modern tools and frameworks.
