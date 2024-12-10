@@ -1,50 +1,15 @@
 # 👋 Hello World, I'm **Phan Chí Sơn**! 
 
-## 🌟 About Me
-- 🎓 **Age:** 21  
-- ⚽ **Inspired by:** Cristiano Ronaldo – I strive for excellence in both programming and fitness.  
-- 💻 **Focus Areas:** Backend Development, and crafting efficient solutions.  
-- 🔭 **Current Goal:** Developing user-friendly web applications using modern tools and frameworks.
+# 💫 About Me:
+🎓 Age: 21<br>💻 Focus Areas: Backend Development, and crafting efficient solutions.<br>🔭 Current Goal: Developing user-friendly web applications using modern tools and frameworks.
 
----
 
-## 🛠️ Technologies & Tools
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ChiSon8386) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam_chiisonn8688/) 
 
----
-
-## 🚀 Featured Projects
-### [💼 Product Management](https://github.com/chison2707/product-management)
-A web application to manage products and orders, developed with **Node.js**, **Mongoose**, and **Bootstrap 4.6**.
-
-### [☕ Coffee Shop Website](https://github.com/chison2707/coffeeShop)
-A modern and responsive website with a coffee-themed design. Integrated with **Font Awesome** and optimized for all devices.
-
-### [📝 Task Management System](https://github.com/chison2707/task-management)
-A task organizer built using **Express.js** and **MongoDB** to simplify daily workflows.
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chison2707&show_icons=true&theme=default)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chison2707&layout=compact&theme=default)
-
----
-
-## 📫 Connect With Me
-- **GitHub:** [chison2707](https://github.com/chison2707)  
-- **Email:** [chiphansonzz17@gmail.com](mailto:chiphansonzz17@gmail.com)    
-- **Facebook:** [Chí Sơn](https://facebook.com/ChiSon8386)  
-- **Instagram:** [@iam_chiisonn8688](https://instagram.com/iam_chiisonn8688)  
-
----
-
-*"The secret of success is consistency of purpose."*  
-\- **Cristiano Ronaldo**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chison2707&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chison2707&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chison2707&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
