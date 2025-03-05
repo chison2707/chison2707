@@ -4,7 +4,7 @@
 # 💫 About Me:
 🎓 Age: 21<br>💻 Focus Areas: Backend Development, and crafting efficient solutions.<br>🔭 Current Goal: Developing user-friendly web applications using modern tools and frameworks.
 
-
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ChiSon8386) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_chiisonn8688) 
 
