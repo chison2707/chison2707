@@ -9,7 +9,7 @@ I'm a passionate Software Engineer with experience in building Fullstack applica
 
 ---
 ## 🚀 What I'm Working On
-*🧱 Stack: ReactJS · NodeJS · TypeScript · Javascript
+*🧱 Stack: ReactJS · NodeJS · TypeScript · Javascript<br/>
 *📦 Dev Tools: Docker · GitHub Actions · PostgreSQL
 ---
 
